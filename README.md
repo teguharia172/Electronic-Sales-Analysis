@@ -43,7 +43,7 @@ In this repo we're doing sales analysis on the electronic shop for one entire ye
 
 
 <details>
-  <summary>Click to see the full analysis </summary>
+  <summary><h2>Click to see the full analysis </h2></summary>
 <br>
 
 # Analysis
