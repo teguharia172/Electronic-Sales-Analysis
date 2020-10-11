@@ -42,7 +42,7 @@ In this repo we're doing sales analysis on the electronic shop for one entire ye
       - 2. Personal electornic product (phone / laptop ) with higher prices tend to sell better compared to house appliance electronic
 
 
-<details open>
+<details>
   <summary><b>Click to see the full analysis</b></summary>
 <br>
 
